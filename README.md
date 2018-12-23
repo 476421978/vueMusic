@@ -2,7 +2,7 @@
 
 > A Vue.js project
 持续更新中
-
+![image](https://github.com/476421978/vueMusic/blob/master/static/gif/Music.gif)
 ## Build Setup
 
 ``` bash
