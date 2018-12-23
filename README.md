@@ -1,6 +1,7 @@
 # vuemusic
 
 > A Vue.js project
+持续更新中
 
 ## Build Setup
 
